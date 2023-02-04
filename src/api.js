@@ -1,16 +1,3 @@
-// import vk from "./assets/vk.jpg"
-// import dk from "./assets/dk.webp"
-// import faf from "./assets/faf.jpg"
-// import fa from "./assets/Finn-Allen.jpg"
-// import hp from "./assets/hp.jpg"
-// import josh from "./assets/josh.jpg"
-// import maxi from "./assets/maxi.jpg"
-// import ml from "./assets/ml.webp"
-// import rp from "./assets/rp.webp"
-// import sa from "./assets/sa.webp"
-// import siraj from "./assets/siraj.jpg"
-
-
 const squad = [
     {
         id: 1,
